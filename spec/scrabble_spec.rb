@@ -35,7 +35,7 @@ RSpec.describe Scrabble do
 
   context 'further specs' do
     it 'scores a simple word' do
-      scrabble = Scrabble.new('street')
+        scrabble = Scrabble.new('street')
 
       expect(scrabble.score).to eq 6
     end
