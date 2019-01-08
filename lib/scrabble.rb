@@ -12,7 +12,7 @@ class Scrabble
   {5 => ["K"]},
   {8 => ["J", "X"]},
   {10 => ["Q", "Z"]}]
-
+ 
  def score 
     if @word != nil
       engine(@word)
