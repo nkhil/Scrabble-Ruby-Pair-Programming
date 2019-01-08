@@ -1,3 +1,5 @@
+Co-authored with [@KrzysztofBalejko](https://github.com/KrzysztofBalejko)
+
 ### Setup
 
 ```bash
